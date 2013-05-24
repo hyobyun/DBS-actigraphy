@@ -309,3 +309,4 @@ cat("Analysis Successful :) \n")
 #googleGPSmapHull(save,gpspoints.df$lat,gpspoints.df$lon, gpspoints.df$velocityMIpH,minConvexPolyPoints)
 
 #test
+#test2
