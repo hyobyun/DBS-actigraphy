@@ -307,3 +307,5 @@ cat("Analysis Successful :) \n")
 #write.shapefile(shapeFile, paste(dir, "output/shapefile",sep=""), arcgis=T)
 #shp=importShapefile(paste(dir, "output/shapefile",sep=""),projection="LL");
 #googleGPSmapHull(save,gpspoints.df$lat,gpspoints.df$lon, gpspoints.df$velocityMIpH,minConvexPolyPoints)
+
+#test
